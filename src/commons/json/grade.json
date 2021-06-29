@@ -1,0 +1,28 @@
+{
+  "gradeOptions": [
+    {
+      "value": 1,
+      "label": "初一"
+    },
+    {
+      "value": 2,
+      "label": "初二"
+    },
+    {
+      "value": 3,
+      "label": "初三"
+    },
+    {
+      "value": 4,
+      "label": "高一"
+    },
+    {
+      "value": 5,
+      "label": "高二"
+    },
+    {
+      "value": 6,
+      "label": "高三"
+    }
+  ]
+}

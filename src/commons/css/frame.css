@@ -1,0 +1,60 @@
+.frame {
+  height: 100vh;
+}
+
+.title {
+  height: 64px;
+  text-align: center;
+  padding: 16px 0;
+  background-color: #002140;
+}
+
+.title .title-text {
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+.header {
+  background: #ffffff;
+  box-shadow: 0 0 6px #dddddd;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-right {
+  display: flex;
+}
+
+.search-input {
+  padding: 16px 0;
+  width: 200px;
+}
+
+.frame .trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.frame .trigger:hover {
+  color: #1890ff;
+}
+
+.frame .logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+
+.side {
+  box-shadow: 0 0 6px #0055a5;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+}

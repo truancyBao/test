@@ -1,0 +1,23 @@
+.page {
+  height: calc(100vh - 80px);
+  margin: 8px;
+  box-shadow: 0 0 6px #dddddd;
+  padding: 0px 8px;
+  background: #ffffff;
+  overflow: scroll;
+  overflow-x: hidden;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #e8e8e8;
+}
